@@ -1,0 +1,688 @@
+solid OuterBoundary
+  facet normal 0 0 1
+    outer loop
+      vertex 5.875 4.125 10.875
+      vertex 5.875 -0.875 10.875
+      vertex 10.875 -0.875 10.875
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 10.875 4.125 10.875
+      vertex 5.875 4.125 10.875
+      vertex 10.875 -0.875 10.875
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 5.875 -0.875 10.875
+      vertex 5.875 -0.875 5.875
+      vertex 10.875 -0.875 5.875
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 10.875 -0.875 10.875
+      vertex 5.875 -0.875 10.875
+      vertex 10.875 -0.875 5.875
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 10.875 -0.875 10.875
+      vertex 10.875 4.125 5.875
+      vertex 10.875 4.125 10.875
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 10.875 -0.875 10.875
+      vertex 10.875 -0.875 5.875
+      vertex 10.875 4.125 5.875
+    endloop
+  endfacet
+  facet normal -0 -0 -1
+    outer loop
+      vertex 10.875 -0.875 5.875
+      vertex 5.875 -0.875 5.875
+      vertex 5.875 4.125 5.875
+    endloop
+  endfacet
+  facet normal -0 -0 -1
+    outer loop
+      vertex 10.875 -0.875 5.875
+      vertex 5.875 4.125 5.875
+      vertex 10.875 4.125 5.875
+    endloop
+  endfacet
+  facet normal -0 1 -0
+    outer loop
+      vertex 10.875 4.125 5.875
+      vertex 5.875 4.125 5.875
+      vertex 5.875 4.125 10.875
+    endloop
+  endfacet
+  facet normal -0 1 -0
+    outer loop
+      vertex 10.875 4.125 5.875
+      vertex 5.875 4.125 10.875
+      vertex 10.875 4.125 10.875
+    endloop
+  endfacet
+  facet normal -1 -0 -0
+    outer loop
+      vertex 5.875 4.125 10.875
+      vertex 5.875 4.125 5.875
+      vertex 5.875 -0.875 10.875
+    endloop
+  endfacet
+  facet normal -1 -0 -0
+    outer loop
+      vertex 5.875 4.125 5.875
+      vertex 5.875 -0.875 5.875
+      vertex 5.875 -0.875 10.875
+    endloop
+  endfacet
+endsolid OuterBoundary
+solid OuterBoundary
+  facet normal 0 0 -1
+    outer loop
+      vertex 5.875 -0.875 -0.875
+      vertex 5.875 4.125 -0.875
+      vertex 10.875 4.125 -0.875
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 10.875 -0.875 -0.875
+      vertex 5.875 -0.875 -0.875
+      vertex 10.875 4.125 -0.875
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 5.875 -0.875 4.125
+      vertex 5.875 -0.875 -0.875
+      vertex 10.875 -0.875 -0.875
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 10.875 -0.875 4.125
+      vertex 5.875 -0.875 4.125
+      vertex 10.875 -0.875 -0.875
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 10.875 -0.875 4.125
+      vertex 10.875 4.125 -0.875
+      vertex 10.875 4.125 4.125
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 10.875 -0.875 4.125
+      vertex 10.875 -0.875 -0.875
+      vertex 10.875 4.125 -0.875
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 5.875 4.125 4.125
+      vertex 5.875 -0.875 4.125
+      vertex 10.875 -0.875 4.125
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 10.875 4.125 4.125
+      vertex 5.875 4.125 4.125
+      vertex 10.875 -0.875 4.125
+    endloop
+  endfacet
+  facet normal -0 1 -0
+    outer loop
+      vertex 10.875 4.125 -0.875
+      vertex 5.875 4.125 -0.875
+      vertex 5.875 4.125 4.125
+    endloop
+  endfacet
+  facet normal -0 1 -0
+    outer loop
+      vertex 10.875 4.125 -0.875
+      vertex 5.875 4.125 4.125
+      vertex 10.875 4.125 4.125
+    endloop
+  endfacet
+  facet normal -1 -0 -0
+    outer loop
+      vertex 5.875 4.125 -0.875
+      vertex 5.875 -0.875 -0.875
+      vertex 5.875 -0.875 4.125
+    endloop
+  endfacet
+  facet normal -1 -0 -0
+    outer loop
+      vertex 5.875 4.125 -0.875
+      vertex 5.875 -0.875 4.125
+      vertex 5.875 4.125 4.125
+    endloop
+  endfacet
+endsolid OuterBoundary
+solid OuterBoundary
+  facet normal 0 0 1
+    outer loop
+      vertex 5.875 10.875 10.875
+      vertex 5.875 5.875 10.875
+      vertex 10.875 5.875 10.875
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 10.875 10.875 10.875
+      vertex 5.875 10.875 10.875
+      vertex 10.875 5.875 10.875
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 5.875 10.875 5.875
+      vertex 5.875 10.875 10.875
+      vertex 10.875 10.875 10.875
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 10.875 10.875 5.875
+      vertex 5.875 10.875 5.875
+      vertex 10.875 10.875 10.875
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 10.875 5.875 10.875
+      vertex 10.875 5.875 5.875
+      vertex 10.875 10.875 5.875
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 10.875 10.875 10.875
+      vertex 10.875 5.875 10.875
+      vertex 10.875 10.875 5.875
+    endloop
+  endfacet
+  facet normal -0 -0 -1
+    outer loop
+      vertex 10.875 5.875 5.875
+      vertex 5.875 5.875 5.875
+      vertex 5.875 10.875 5.875
+    endloop
+  endfacet
+  facet normal -0 -0 -1
+    outer loop
+      vertex 10.875 5.875 5.875
+      vertex 5.875 10.875 5.875
+      vertex 10.875 10.875 5.875
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 5.875 5.875 10.875
+      vertex 5.875 5.875 5.875
+      vertex 10.875 5.875 5.875
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 10.875 5.875 10.875
+      vertex 5.875 5.875 10.875
+      vertex 10.875 5.875 5.875
+    endloop
+  endfacet
+  facet normal -1 -0 -0
+    outer loop
+      vertex 5.875 10.875 5.875
+      vertex 5.875 5.875 5.875
+      vertex 5.875 5.875 10.875
+    endloop
+  endfacet
+  facet normal -1 -0 -0
+    outer loop
+      vertex 5.875 10.875 5.875
+      vertex 5.875 5.875 10.875
+      vertex 5.875 10.875 10.875
+    endloop
+  endfacet
+endsolid OuterBoundary
+solid OuterBoundary
+  facet normal 0 0 -1
+    outer loop
+      vertex 5.875 5.875 -0.875
+      vertex 5.875 10.875 -0.875
+      vertex 10.875 10.875 -0.875
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 10.875 5.875 -0.875
+      vertex 5.875 5.875 -0.875
+      vertex 10.875 10.875 -0.875
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 5.875 10.875 -0.875
+      vertex 5.875 10.875 4.125
+      vertex 10.875 10.875 4.125
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 10.875 10.875 -0.875
+      vertex 5.875 10.875 -0.875
+      vertex 10.875 10.875 4.125
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 10.875 5.875 4.125
+      vertex 10.875 5.875 -0.875
+      vertex 10.875 10.875 -0.875
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 10.875 10.875 4.125
+      vertex 10.875 5.875 4.125
+      vertex 10.875 10.875 -0.875
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 5.875 10.875 4.125
+      vertex 5.875 5.875 4.125
+      vertex 10.875 5.875 4.125
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 10.875 10.875 4.125
+      vertex 5.875 10.875 4.125
+      vertex 10.875 5.875 4.125
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 5.875 5.875 4.125
+      vertex 5.875 5.875 -0.875
+      vertex 10.875 5.875 -0.875
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 10.875 5.875 4.125
+      vertex 5.875 5.875 4.125
+      vertex 10.875 5.875 -0.875
+    endloop
+  endfacet
+  facet normal -1 -0 -0
+    outer loop
+      vertex 5.875 10.875 -0.875
+      vertex 5.875 5.875 -0.875
+      vertex 5.875 5.875 4.125
+    endloop
+  endfacet
+  facet normal -1 -0 -0
+    outer loop
+      vertex 5.875 10.875 -0.875
+      vertex 5.875 5.875 4.125
+      vertex 5.875 10.875 4.125
+    endloop
+  endfacet
+endsolid OuterBoundary
+solid OuterBoundary
+  facet normal 0 0 1
+    outer loop
+      vertex 4.125 -0.875 10.875
+      vertex -0.875 4.125 10.875
+      vertex -0.875 -0.875 10.875
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 4.125 -0.875 10.875
+      vertex 4.125 4.125 10.875
+      vertex -0.875 4.125 10.875
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex -0.875 -0.875 10.875
+      vertex -0.875 -0.875 5.875
+      vertex 4.125 -0.875 5.875
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 4.125 -0.875 10.875
+      vertex -0.875 -0.875 10.875
+      vertex 4.125 -0.875 5.875
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex -0.875 4.125 10.875
+      vertex -0.875 -0.875 5.875
+      vertex -0.875 -0.875 10.875
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex -0.875 4.125 10.875
+      vertex -0.875 4.125 5.875
+      vertex -0.875 -0.875 5.875
+    endloop
+  endfacet
+  facet normal -0 -0 -1
+    outer loop
+      vertex 4.125 -0.875 5.875
+      vertex -0.875 -0.875 5.875
+      vertex -0.875 4.125 5.875
+    endloop
+  endfacet
+  facet normal -0 -0 -1
+    outer loop
+      vertex 4.125 -0.875 5.875
+      vertex -0.875 4.125 5.875
+      vertex 4.125 4.125 5.875
+    endloop
+  endfacet
+  facet normal -0 1 -0
+    outer loop
+      vertex 4.125 4.125 5.875
+      vertex -0.875 4.125 5.875
+      vertex -0.875 4.125 10.875
+    endloop
+  endfacet
+  facet normal -0 1 -0
+    outer loop
+      vertex 4.125 4.125 5.875
+      vertex -0.875 4.125 10.875
+      vertex 4.125 4.125 10.875
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 4.125 4.125 5.875
+      vertex 4.125 -0.875 10.875
+      vertex 4.125 -0.875 5.875
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 4.125 4.125 5.875
+      vertex 4.125 4.125 10.875
+      vertex 4.125 -0.875 10.875
+    endloop
+  endfacet
+endsolid OuterBoundary
+solid OuterBoundary
+  facet normal 0 0 -1
+    outer loop
+      vertex 4.125 4.125 -0.875
+      vertex -0.875 -0.875 -0.875
+      vertex -0.875 4.125 -0.875
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 4.125 4.125 -0.875
+      vertex 4.125 -0.875 -0.875
+      vertex -0.875 -0.875 -0.875
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 4.125 -0.875 -0.875
+      vertex -0.875 -0.875 4.125
+      vertex -0.875 -0.875 -0.875
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 4.125 -0.875 -0.875
+      vertex 4.125 -0.875 4.125
+      vertex -0.875 -0.875 4.125
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex -0.875 -0.875 -0.875
+      vertex -0.875 -0.875 4.125
+      vertex -0.875 4.125 4.125
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex -0.875 4.125 -0.875
+      vertex -0.875 -0.875 -0.875
+      vertex -0.875 4.125 4.125
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 4.125 -0.875 4.125
+      vertex -0.875 4.125 4.125
+      vertex -0.875 -0.875 4.125
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 4.125 -0.875 4.125
+      vertex 4.125 4.125 4.125
+      vertex -0.875 4.125 4.125
+    endloop
+  endfacet
+  facet normal -0 1 -0
+    outer loop
+      vertex 4.125 4.125 -0.875
+      vertex -0.875 4.125 -0.875
+      vertex -0.875 4.125 4.125
+    endloop
+  endfacet
+  facet normal -0 1 -0
+    outer loop
+      vertex 4.125 4.125 -0.875
+      vertex -0.875 4.125 4.125
+      vertex 4.125 4.125 4.125
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 4.125 -0.875 4.125
+      vertex 4.125 -0.875 -0.875
+      vertex 4.125 4.125 -0.875
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 4.125 4.125 4.125
+      vertex 4.125 -0.875 4.125
+      vertex 4.125 4.125 -0.875
+    endloop
+  endfacet
+endsolid OuterBoundary
+solid OuterBoundary
+  facet normal 0 0 1
+    outer loop
+      vertex -0.875 10.875 10.875
+      vertex -0.875 5.875 10.875
+      vertex 4.125 5.875 10.875
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 4.125 10.875 10.875
+      vertex -0.875 10.875 10.875
+      vertex 4.125 5.875 10.875
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 4.125 10.875 10.875
+      vertex -0.875 10.875 5.875
+      vertex -0.875 10.875 10.875
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 4.125 10.875 10.875
+      vertex 4.125 10.875 5.875
+      vertex -0.875 10.875 5.875
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex -0.875 5.875 5.875
+      vertex -0.875 5.875 10.875
+      vertex -0.875 10.875 10.875
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex -0.875 10.875 5.875
+      vertex -0.875 5.875 5.875
+      vertex -0.875 10.875 10.875
+    endloop
+  endfacet
+  facet normal -0 -0 -1
+    outer loop
+      vertex 4.125 10.875 5.875
+      vertex 4.125 5.875 5.875
+      vertex -0.875 10.875 5.875
+    endloop
+  endfacet
+  facet normal -0 -0 -1
+    outer loop
+      vertex 4.125 5.875 5.875
+      vertex -0.875 5.875 5.875
+      vertex -0.875 10.875 5.875
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex -0.875 5.875 10.875
+      vertex -0.875 5.875 5.875
+      vertex 4.125 5.875 5.875
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 4.125 5.875 10.875
+      vertex -0.875 5.875 10.875
+      vertex 4.125 5.875 5.875
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 4.125 5.875 10.875
+      vertex 4.125 5.875 5.875
+      vertex 4.125 10.875 5.875
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 4.125 10.875 10.875
+      vertex 4.125 5.875 10.875
+      vertex 4.125 10.875 5.875
+    endloop
+  endfacet
+endsolid OuterBoundary
+solid OuterBoundary
+  facet normal 0 0 -1
+    outer loop
+      vertex 4.125 10.875 -0.875
+      vertex -0.875 5.875 -0.875
+      vertex -0.875 10.875 -0.875
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 4.125 10.875 -0.875
+      vertex 4.125 5.875 -0.875
+      vertex -0.875 5.875 -0.875
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 4.125 10.875 4.125
+      vertex -0.875 10.875 -0.875
+      vertex -0.875 10.875 4.125
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 4.125 10.875 4.125
+      vertex 4.125 10.875 -0.875
+      vertex -0.875 10.875 -0.875
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex -0.875 5.875 -0.875
+      vertex -0.875 5.875 4.125
+      vertex -0.875 10.875 4.125
+    endloop
+  endfacet
+  facet normal -1 0 0
+    outer loop
+      vertex -0.875 10.875 -0.875
+      vertex -0.875 5.875 -0.875
+      vertex -0.875 10.875 4.125
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex -0.875 10.875 4.125
+      vertex -0.875 5.875 4.125
+      vertex 4.125 5.875 4.125
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 4.125 10.875 4.125
+      vertex -0.875 10.875 4.125
+      vertex 4.125 5.875 4.125
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex -0.875 5.875 4.125
+      vertex -0.875 5.875 -0.875
+      vertex 4.125 5.875 -0.875
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 4.125 5.875 4.125
+      vertex -0.875 5.875 4.125
+      vertex 4.125 5.875 -0.875
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 4.125 5.875 4.125
+      vertex 4.125 5.875 -0.875
+      vertex 4.125 10.875 -0.875
+    endloop
+  endfacet
+  facet normal 1 0 0
+    outer loop
+      vertex 4.125 10.875 4.125
+      vertex 4.125 5.875 4.125
+      vertex 4.125 10.875 -0.875
+    endloop
+  endfacet
+endsolid OuterBoundary
